@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @manjalshah
+- 👋 Hi, I’m Manjal
 - 👀 I’m interested in ML, DL, AI and Data Science.
 - 🌱 I’m currently learning ML.
 - 💞️ I’m looking to collaborate on machine learning projects.
