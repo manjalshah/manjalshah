@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML, DL, AI and Data Science.
 - 🌱 I’m currently learning ML.
 - 💞️ I’m looking to collaborate on machine learning projects.
-- 📫 You can reach out to me by my Email ID manjalmshah03@gmail.com.
+- 📫 You can connect with me on LinkedIn via https://www.linkedin.com/in/manjal-shah-4a7911210.
 
 <!---
 manjalshah/manjalshah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
