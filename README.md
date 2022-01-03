@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Manjal
 - 👀 I’m interested in Machine Learning and Data Science.
-- 🌱 I’m currently learning ML.
+- 🌱 I’m currently learning Deep Learning.
 - 💞️ I’m looking to collaborate on machine learning projects.
 - 📫 You can connect with me on LinkedIn via https://www.linkedin.com/in/manjal-shah-4a7911210.
 
